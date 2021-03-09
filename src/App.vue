@@ -31,7 +31,7 @@ export default {
         {property: 'og:image', content: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
         {property: 'og:title', content: 'Facebook Title'},
         {property: 'og:site_name', content: 'Facebook Site Name'},
-        {property: 'og:type', content: 'website'},
+        // {property: 'og:type', content: 'website'},
         {property: 'og:description', content: 'Facebook Description'}
       ]
     }
