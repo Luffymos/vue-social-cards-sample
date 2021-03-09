@@ -31,7 +31,7 @@ export default {
         {property: 'og:title', content: 'Vue Social Cards Example'},
         {property: 'og:site_name', content: 'Vue Example'},
         {property: 'og:type', content: 'website'},
-        {property: 'og:image', content:  this.logo},
+        {property: 'og:image:secure', content: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*'},
         {property: 'og:description', content: 'Vue sample site showing off Twitter and Facebook Cards.'}
       ]
     }
