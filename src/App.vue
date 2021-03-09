@@ -31,7 +31,7 @@ export default {
         {property: 'og:title', content: 'Vue Social Cards Example'},
         {property: 'og:site_name', content: 'Vue Example'},
         {property: 'og:type', content: 'website'},
-        {property: 'og:image:secure_url', content: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
+        {property: 'og:image', content: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
         {property: 'og:description', content: 'Vue sample site showing off Twitter and Facebook Cards.'}
       ]
     }
