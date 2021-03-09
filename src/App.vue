@@ -21,18 +21,18 @@ export default {
   metaInfo() {
     return {
       meta: [
-        // Twitter Card
-        {name: 'twitter:card', content: 'summary'},
-        {name: 'twitter:title', content: 'Twitter Title'},
-        {name: 'twitter:description', content: 'Twitter Description'},
-        {name: 'twitter:image', content: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
-
         // Facebook OpenGraph
-        {property: 'og:image', content: 'https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg'},
+        {property: 'og:image', content: 'http://dev-api.wya.yoga/mediafiles/school/1/9f8af97f-6e0b-4106-9724-6824a41da02fschool_ex_1_.png'},
         {property: 'og:title', content: 'Facebook Title'},
         {property: 'og:site_name', content: 'Facebook Site Name'},
         // {property: 'og:type', content: 'website'},
         {property: 'og:description', content: 'Facebook Description'}
+        
+        // Twitter Card
+        {name: 'twitter:card', content: 'summary'},
+        {name: 'twitter:title', content: 'Twitter Title'},
+        {name: 'twitter:description', content: 'Twitter Description'},
+        {name: 'twitter:image', content: 'http://dev-api.wya.yoga/mediafiles/school/1/9f8af97f-6e0b-4106-9724-6824a41da02fschool_ex_1_.png'},
       ]
     }
   }
