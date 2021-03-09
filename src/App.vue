@@ -26,7 +26,7 @@ export default {
         {property: 'og:title', content: 'Facebook Title'},
         {property: 'og:site_name', content: 'Facebook Site Name'},
         // {property: 'og:type', content: 'website'},
-        {property: 'og:description', content: 'Facebook Description'}
+        {property: 'og:description', content: 'Facebook Description'},
         
         // Twitter Card
         {name: 'twitter:card', content: 'summary'},
