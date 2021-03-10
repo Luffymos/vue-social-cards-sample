@@ -22,7 +22,7 @@ export default {
     return {
       meta: [
         // Facebook OpenGraph
-        {property: 'og:image', content: 'http://dev-api.wya.yoga/mediafiles/school/1/9f8af97f-6e0b-4106-9724-6824a41da02fschool_ex_1_.png'},
+        // {property: 'og:image', content: 'http://dev-api.wya.yoga/mediafiles/school/1/9f8af97f-6e0b-4106-9724-6824a41da02fschool_ex_1_.png'},
         {property: 'og:title', content: 'Facebook Title'},
         {property: 'og:site_name', content: 'Facebook Site Name'},
         {property: 'og:type', content: 'website'},
